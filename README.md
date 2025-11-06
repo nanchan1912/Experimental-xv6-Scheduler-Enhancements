@@ -1,6 +1,6 @@
 
 # xv6 Kernel Scheduler Modifications
-
+> kernel pult > cabbage pult
 ## Overview
 
 This repository contains experimental modifications to the xv6 teaching operating system that implement and evaluate kernel scheduler enhancements. 
@@ -49,8 +49,4 @@ make qemu
 patch -p1 < xv6_modifications.patch
 ```
 
-## Testing & evaluation
-
-Compare results under different workloads (short-lived vs CPU-bound processes) and evaluate turnaround and wait times using the provided instrumentation.
-
-
+## high time we schedule a nap U///U
